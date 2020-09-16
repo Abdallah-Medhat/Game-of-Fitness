@@ -1,0 +1,355 @@
+.header
+{
+    position: relative;
+    top : -300px;
+	text-align: center;
+	background-color: #FFF
+}
+.header .name h1
+{
+	font-family: 'Spectral', serif;
+	color: #ff9999;
+	font-size: 44px;
+	font-style: italic;
+	padding: 20px 0px;
+	margin: 0
+}
+.header  .name .border
+{
+	border-bottom: 1px solid #333;
+	margin-left: 10%;
+	width: 80%;
+
+}
+.header .nav .span a
+{
+    text-decoration: none;
+	text-transform: uppercase;
+	color: #99b3ff;
+    font-size: 20px
+}
+.header .nav .border2
+{
+	border-bottom: 1px solid #333;
+	margin-left: 20%;
+	width: 60%;
+    margin-top: 20px;
+
+}
+.header .nav 
+{
+	list-style: none;
+    padding: 30px;
+    text-transform: uppercase;
+	color: #99b3ff;
+
+}
+.nutrio
+{
+	margin-top: 20px	
+}
+.nutrio a
+{
+	text-decoration: none;
+	padding: 10px;
+	color: #ff9999;
+	font-size: 20px;
+}
+
+/*--------------------*/
+
+.main
+{
+    display: none;
+    width: 100%;
+    height:auto;
+    position: relative;
+    
+}
+/*----*/
+.main h3
+{
+    text-align: center;
+    padding: 10px;
+    color: #ff9999;
+    
+}
+/*----*/
+.main .div1
+{
+    background-color: #ffe6ee;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 100%;
+    height: 150px;
+    position: relative
+}
+.main .div1 .img1
+{
+    float:right;
+    margin-right: 50px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+    background: url(../img/1.jpg)
+}
+.main .div1 .para1
+{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 746px;
+    height: 150px;
+    margin-left: 200px;
+    position: relative
+}
+.main .div1 .para1 p
+{
+    font-size: 30px;
+	text-transform: capitalize;
+	font-family: 'Spectral', serif;
+	text-align: center;
+    margin-top: 20px
+}
+/*----*/
+.main .div2
+{
+    margin-top: 50px;
+    background-color: #cce6ff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 100%;
+    height: 150px;
+    position: relative 
+}
+.main .div2 .img2
+{
+    margin-left: 50px;
+    display: inline;
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+    background: url(../img/2.jpg)
+}
+.main .div2 .para2
+{
+    display: inline;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 746px;
+    height: 150px;
+    margin-left: 300px; 
+}
+.main .div2 .para2 p
+{
+    font-size: 30px;
+	text-transform: capitalize;
+	font-family: 'Spectral', serif;
+	text-align: center;
+    margin-top: 35px 
+}
+/*----*/
+.main .div3
+{
+    margin-top: 50px;
+    background-color: #ffe6ee;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 100%;
+    height: 150px;
+    position: relative
+}
+.main .div3 .img3
+{
+    float:right;
+    margin-right: 50px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+    background: url(../img/3.jpg)
+}
+.main .div3 .para3
+{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 746px;
+    height: 150px;
+    margin-left: 200px;
+    position: relative 
+}
+.main .div3 .para3 p
+{
+    font-size: 30px;
+	text-transform: capitalize;
+	font-family: 'Spectral', serif;
+	text-align: center;
+    margin-top: 10px
+}
+/*----*/
+.main .div4
+{
+    margin-top: 50px;
+    background-color: #cce6ff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 100%;
+    height: 150px;
+    position: relative
+}
+.main .div4 .img4
+{
+    margin-left: 50px;
+    display: inline;
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+    background: url(../img/4.jpg)
+}
+.main .div4 .para4
+{
+    display: inline;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 746px;
+    height: 150px;
+    margin-left: 300px;
+}
+.main .div4 .para4 p
+{
+    font-size: 30px;
+	text-transform: capitalize;
+	font-family: 'Spectral', serif;
+	text-align: center;
+    margin-top: 20px
+}
+/*----*/
+.main .div5
+{
+    margin-top: 50px;
+    background-color: #ffe6ee;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 100%;
+    height: 150px;
+    position: relative
+}
+.main .div5 .img5
+{
+    float:right;
+    margin-right: 50px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+    background: url(../img/5.jpg)
+}
+.main .div5 .para5
+{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 746px;
+    height: 150px;
+    margin-left: 200px;
+    position: relative 
+}
+.main .div5 .para5 p
+{
+    font-size: 30px;
+	text-transform: capitalize;
+	font-family: 'Spectral', serif;
+	text-align: center;
+    margin-top: 20px
+}
+/*---*/
+.main .div6
+{
+    margin-top: 50px;
+    background-color: #cce6ff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 100%;
+    height: 150px;
+    position: relative
+}
+.main .div6 .img6
+{
+    margin-left: 50px;
+    display: inline;
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+    background: url(../img/6.jpg)
+}
+.main .div6 .para6
+{
+    display: inline;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 746px;
+    height: 150px;
+    margin-left: 300px;
+}
+.main .div6 .para6 p
+{
+    font-size: 30px;
+	text-transform: capitalize;
+	font-family: 'Spectral', serif;
+	text-align: center;
+    margin-top: 30px
+}
+/*-----------------------*/
+.footerlast
+{
+    position: relative;
+    width: 100%;
+    height: 150px;
+    margin-top: 100px;
+    background: #f2f2f2;
+   
+}
+.footerlast .right
+{
+    position: absolute;
+    margin-left: 902px;
+    width: 300px;
+    height: 150px;
+    color: #809fff;
+    font-size: 20px;
+}
+.footerlast .center
+{
+    position: absolute;
+    margin-left: 500px;
+    width: 300px;
+    height: 50px;
+    color: #809fff;
+    font-size: 20px;
+    margin-top: 28px
+}
+.footerlast .left 
+{
+    position: absolute;
+    margin-left: 70px;
+    width: 300px;
+    height: 50px; 
+    text-align: center;
+    color: #809fff;
+    font-size: 20px;
+    margin-top: 48px
+}

@@ -3,7 +3,10 @@ website About health, lifestyle, fitness and nutrition. user can know amount of 
 By backing to home page select your system to know more. There are three systems weight gain, weight loss and skinny fat
 
 # Programming Languages used
-
+- HTML
+- CSS
+- JavaScript (jQuary)
+_ PHP
 
 # Screenshots
 ![Picture1](https://user-images.githubusercontent.com/52097278/93289342-72db5a80-f7de-11ea-9c83-73475c58f9e6.png)

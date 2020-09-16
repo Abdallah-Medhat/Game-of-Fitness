@@ -1,5 +1,5 @@
 # Game-of-Fitness
-website About health, lifestyle, fitness and nutrition. user can know amount of calories in some food and drinks. And able to know right system which he can follow it.
+website about health, lifestyle, fitness and nutrition. user can know amount of calories in some food and drinks. And able to know right system which he can follow it.
 By backing to home page select your system to know more. There are three systems weight gain, weight loss and skinny fat
 
 # Programming Languages used
